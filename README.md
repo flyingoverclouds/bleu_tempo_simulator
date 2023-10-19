@@ -3,7 +3,7 @@ Feuille de calcul Excel permettant de faire une estimation mensuelle de la factu
 __Avertissement :__ cette feuille permet de faire une estimation sans aucune garantie. Il ne s'agit en aucun cas d'un engagement contractuel. Vous restez pleinement responsable de l'usage que vous en faites !
 
 
-Cette feuille de calcul est distribuée sous la licence [GNU GPL v3 ](~./LICENSE)
+Cette feuille de calcul est distribuée sous la licence [GNU GPL v3 ](LICENSE)
 
 # Le tarif Bleu Tempo
 __Le tarif Bleu option Tempo__ ( [site web EDF](https://particulier.edf.fr/fr/accueil/gestion-contrat/options/tempo/details.html) ) permet d'obtenir des réductions de prix significatives sur le kWh électrique les jours où la demande n'est pas forte (300 jours bleus par an), moyennement forte (43 jours blancs). Les jours à forte demande électrique (22 jours rouges), au contraire, vous paierez le kWh HP beaucoup plus cher (à date - non contractuel : environ 3fois plus cher).
