@@ -20,7 +20,7 @@ La répartition de la consommation entre jour Bleu/Blanc/Rouge se fait au prorat
 Récupérez sur le site de votre fournisseur d'énergie les données de votre consommation électrique mensuelle en kWh (Heure Pleine HP, et éventuellement Heure Creuse)
 
 ## La feuille de calcul :
-Téléchargez la feuille de calcul Excel [bleu_tempo_simultor.xlsx](./bleu_tempo_simultor.xlsx) sur votre ordinateur. 
+Téléchargez la feuille de calcul Excel [bleu_tempo_simultor.xlsx](./bleu_tempo_simulator.xlsx) sur votre ordinateur. 
 Ouvrez la avec votre tableur préféré (qui doit supporter le format de fichier .XLSX).
 
 ### Les onglets : 
