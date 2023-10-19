@@ -1,6 +1,6 @@
 # bleu_tempo_simulator
-Feuille de calcul Excel permettant de faire une estimation mensuelle de la facture électrique en  Bleu HP-HC Tempo à partir de votre consommation électrique passé. 
-__Avertissement :__ cette feuille permet de faire une estimation sans aucune garantie. Il ne s'agit en aucun cas d'un engagement contractuel. Vous restez pleinement responsable de l'usage que vous en faites !Eric :
+Feuille de calcul Excel permettant de faire une estimation mensuelle de la facture électrique en tarif Bleu avec option Tempo à partir de votre consommation électrique des 12 derniers mois. 
+__Avertissement :__ cette feuille permet de faire une estimation sans aucune garantie. Il ne s'agit en aucun cas d'un engagement contractuel. Vous restez pleinement responsable de l'usage que vous en faites !
 
 
 Cette feuille de calcul est distribuée sous la licence [GNU GPL v3 ](~./LICENSE)
