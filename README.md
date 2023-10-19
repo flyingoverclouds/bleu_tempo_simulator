@@ -5,8 +5,8 @@ __Avertissement :__ cette feuille permet de faire une estimation sans aucune gar
 
 Cette feuille de calcul est distribuée sous la licence [GNU GPL v3 ](~./LICENSE)
 
-#Le tarif Bleu Tempo
-__Le tarif régulé bleu Tempo__ ( [site web EDF](https://particulier.edf.fr/fr/accueil/gestion-contrat/options/tempo/details.html) ) permet d'obtenir des réductions de prix significatives sur le kWh électrique les jours où la demande n'est pas forte (300 jours bleus par an), moyennement forte (43 jours blancs). Les jours à forte demande électrique (22 jours rouges), au contraire, vous paierez le kWh HP beaucoup plus cher (à date - non contractuel : environ 3fois plus cher).
+# Le tarif Bleu Tempo
+__Le tarif Bleu option Tempo__ ( [site web EDF](https://particulier.edf.fr/fr/accueil/gestion-contrat/options/tempo/details.html) ) permet d'obtenir des réductions de prix significatives sur le kWh électrique les jours où la demande n'est pas forte (300 jours bleus par an), moyennement forte (43 jours blancs). Les jours à forte demande électrique (22 jours rouges), au contraire, vous paierez le kWh HP beaucoup plus cher (à date - non contractuel : environ 3fois plus cher).
 
 
 
